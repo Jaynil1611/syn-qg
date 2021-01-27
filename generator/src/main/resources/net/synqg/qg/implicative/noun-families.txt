@@ -1,0 +1,8 @@
+ABILITY	10	ability	capacity	credibility	facility	means	oomph	potential	power	skill	strength
+ASSET	10	asset	electricity	fortune	money	oil	resources	time	treasure	wealth	wherewithal
+ATTRIBUTE	48	audaciousness	boldness	brainpower	brightness	brass	cheek	chutzpah	cleverness	creativeness	creativity	courage	daring	decency	doggedness	endurance	foolishness	foresight	foresightedness	gall	genuineness	grace	gumption	guts	imbecility	impudence	ingeniousness	ingenuity	intelligence	inventiveness	nerve	perseverance	persistence	persistency	pertinacity	presence of mind	prevision	properness	propriety	mental quality	sense	smartness	stamina	stupidity	temerity	tenaciousness	tenacity	wisdom	wits
+EFFORT	7	attempt	effort	endeavor	endeavour	initiative	trouble	try
+HESITATION	4	hesitation	qualms	reluctance	scruples
+OBLIGATION	7	chore	commitment	duty	mission	obligation	responsibility	task
+OCCASION	3	good fortune	misfortune	occasion
+OPPORTUNITY	6	chance	freedom	liberty	opportunity	option	possibility																																										

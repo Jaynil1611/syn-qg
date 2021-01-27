@@ -1,0 +1,9 @@
+FAIL	3	fail	ignore	neglect	
+HAVE	4	find	get	have	possess
+LACK	6	discard	give up	lack	lose	miss	throw away
+MAKE	3	do	make	undertake		
+MEET	4	acquit	do	fulfill	meet
+SHOW	3	have	show	display
+TAKE	6	clutch	grab	seize	snap	snatch	take
+USE	4	expend	exploit	use	utilize
+WASTE	3	drop	squander	waste

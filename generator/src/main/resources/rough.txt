@@ -1,0 +1,39 @@
+# aux=null or aux=do/does  (check for present/past)
+John kills Mary. --> John is the killer.
+John killed Mary. --> John was the killer.
+John does kill Mary. --> John is the killer.
+The people eat salad. --> The people are the eaters.
+
+# aux = "is/was/were/are" (check for present/past) --> John $aux being $pbd
+John is killing Mary. --> John is being the killer.
+
+# aux=has/have --> John $aux been $pbd.
+John had killed Mary. --> John had been the killer.
+John has killed Mary. --> John has been the killer.
+
+# a modal and an aux (Notice that whenever there is a had/have, always post attach a be/been to it)
+John might have killed Mary. --> John might have been the killer.
+The people could have eaten mangoes. --> The people could have been the eaters.
+The person would have killed Mary. --> The person would have been the killer.
+
+# With modals (will, can, would, must, should, shall, may, might)
+# aux = will/might/can/could/should --> John $aux be $pbd?
+John will kill Mary. --> Who will be the killer?
+
+John will be killing Mary. --> John will be the killer.
+
+# 1 modal + 2 or more aux
+John may have had killed Mary. --> John may have had been the killer.
+
+John is going to kill Mary. --> Who is going to be the killer?
+
+
+    /**
+     * Aux modal, such as as "would".
+     */
+    Optional<IDepNode> auxModal();
+
+    /**
+     * Modal, such as need/want (not modal auxiliary such as "would").
+     */
+    Optional<IDepNode> modal();

@@ -1,0 +1,114 @@
+add	V-SUBJ-COMPEXthat	impl_np*	Ed didn't add that Mary arrived.	
+admit	V-SUBJ-OBJexpl-XCOMPinf	impl_pp	The report was admitted to be incorrect.	
+allow	V-SUBJ-OBJexpl-XCOMPinf	impl_pp_nn	John allowed there to be balloons.	
+allow	V-SUBJ-OBJ-XCOMPinf	impl_pp_nn	Children were allowed to hop.	
+appoint	V-SUBJ-OBJ-XCOMPinf	impl_pp*	Ed was appointed to run the shop.	
+arrange	V-SUBJ-COMPEXthat	impl_pp	Ed arranged that Mary could attend.	
+ascertain	V-SUBJ-COMPEXthat	impl_pp*	Ed ascertained that Mary went.	
+attempt	V-SUBJ-XCOMPinf	impl_nn	Ed didn't attempt to go.	
+bear	V-SUBJ-XCOMPinf	impl_pp_nn	John couldn't bear to leave.	
+begin	V-SUBJexpl-XCOMPinf	impl_pp_nn	It had begun to rain.	
+bother	V-SUBJ-XCOMPinf	impl_pp_nn	Ed didn't bother to cry.	
+bring	V-SUBJ-OBJexpl-XCOMPinf	impl_pp	Ed brought himself to confess.	
+care	V-SUBJ-XCOMPinf	impl_nn*	Ed didn't care to go.	
+cause	V-SUBJ-OBJexpl-XCOMPinf	impl_pp	Ed caused Mary to cry.	
+come	V-SUBJ-XCOMPinf	impl_pp_nn	Ed came to know about the story.	
+compel	V-SUBJ-OBJ-XCOMPinf	impl_pp*	Ed compelled Bill to go.	
+compel	V-SUBJ-OBJexpl-XCOMPinf	impl_pp*	The subpoena compelled there to be an trial.	
+compete	V-SUBJ-XCOMPinf	impl_nn	Ed didn't compete to solve the problem.	
+concede	V-SUBJ-COMPEXthat	impl_pp*	Ed conceded that Mary had arrived.	
+condemn	V-SUBJ-OBJ-XCOMPinf	impl_pp*_nn*	They condemned him to die.	
+condescend	V-SUBJ-XCOMPinf	impl_pp_nn	They condescended to go.	
+confess	V-SUBJ-XCOMPinf	impl_pp*	Ed confessed to have cheated in the exam.	
+confirm	V-SUBJ-COMPEXthat	impl_pp	She confirmed that she had taken the money.	
+consent	V-SUBJ-XCOMPinf	impl_pp*_nn*	Ed consented to go.	
+convince	V-SUBJ-OBJ-XCOMPinf	impl_pp*_nn*	Ed convinced Mary to go.	
+dare	V-SUBJ-XCOMPinf	impl_pp_nn	Ed dared to speak.	
+decline	V-SUBJ-XCOMPinf	impl_pn	Ed declined to go.	
+deign	V-SUBJ-XCOMPinf	impl_pp_nn	Ed didn't deign to sign the book.	
+demonstrate	V-SUBJ-COMPEXthat	impl_pp	Ed demonstrated that the gadget worked.	
+determine	V-SUBJ-COMPEXthat	impl_pp*	Ed determined that Mary won.	
+discover	V-SUBJ-OBJexpl-XCOMPinf	impl_pp	Ed discovered Bill to be in Paris.	
+drive	V-SUBJ-OBJ-XCOMPinf	impl_pp	Ed was driven to write poetry.	
+drive	V-SUBJ-OBJexpl-XCOMPinf	impl_pp	Low pressure drove it to rain	
+enable	V-SUBJ-OBJ-XCOMPinf	impl_pp_nn	The grant enabled Mary to write.	
+ensure	V-SUBJ-COMPEXthat	impl_pp	Ed ensured that Mary arrived.	
+establish	V-SUBJ-COMPEXthat	impl_pp*	Ed established that Mary had arrived.	
+explain	V-SUBJ-COMPEXthat	impl_np	John didn't explain that Bill didn't arrive.	
+explain	V-SUBJ-OBLto-COMPEXthat	impl_np	Ed didn't explain to Mary that Bill didn't arrive.	
+fail	V-SUBJexpl-XCOMPinf	impl_pn_np	Ed failed to open the door.	
+forbid	V-SUBJ-OBJ-XCOMPinf	impl_pn*	Ed's common sense forbade him to answer.	
+force	V-SUBJ-OBJexpl-XCOMPinf	impl_pp	The rules forced there to be a rematch.	
+force	V-SUBJ-OBJ-XCOMPinf	impl_pp	Ed was forced to go.	
+forget	V-SUBJ-XCOMPinf	impl_pn_np	Ed forgot to go to the doctor.	
+get	V-SUBJ-OBJexpl-XCOMPinf	impl_pp_nn	Ed got it to rain sparks.	
+get	V-SUBJ-XCOMPinf	impl_pp_nn	Ed got to write to the doctor.	
+go	V-SUBJ-XCOMPinf_prt(on_)	impl_pp_nn	Ed went on to become famous.	
+grant	V-SUBJ-OBJ-COMPEXthat	impl_pp	Ed granted Mary that Bill arrived.	
+grant	V-SUBJ-COMPEXthat	impl_pp	Ed granted that she was right.	
+grow	V-SUBJ-XCOMPinf	impl_pp_nn	Ed grew to like Mary.	
+guess	V-SUBJ-COMPEXthat	impl_np	Ed didn't guess that Mary arrived.	
+hasten	V-SUBJ-XCOMPinf	impl_pp	Ed hastened to go.	
+have	V-SUBJ-OBJexpl-XCOMPbase	impl_pp_nn	John had Mary leave.	
+have	V-SUBJ-XCOMPinf	impl_pp*	Ed had to go.	
+help	V-SUBJ-XCOMPbase	impl_pp	Ed helped clean the house.	
+help	V-SUBJ-XCOMPinf	impl_pp	Ed helped to clean the house.	
+help	V-SUBJ-OBJexpl-XCOMPbase	impl_pp	John helped Mary leave.	
+help	V-SUBJ-OBJ-XCOMPinf	impl_pp	John helped Mary to leave.	
+hesitate	V-SUBJ-XCOMPinf	impl_np	Ed didn't hesitate to go.	
+induce	V-SUBJ-OBJ-XCOMPinf	impl_pp*	Ed was induced to go.	
+influence	V-SUBJ-OBJ-XCOMPinf	impl_pp*	Ed was influenced to vote for Bush.	
+inspire	V-SUBJ-OBJ-XCOMPinf	impl_pp*	Ed inspired Bill to go.	
+jump	V-SUBJ-XCOMPinf	impl_pp	Ed jumped to help John.	
+know	V-SUBJ-XCOMPinf	impl_pp_nn	Ed knew to pay attention.	
+lead	V-SUBJ-OBJ-XCOMPinf	impl_pp	Falling profits led the company to explore new paths.	
+lead	V-SUBJ-OBJexpl-XCOMPinf	impl_pp	Growth encouraging policies led there to be much available capital.	
+learn	V-SUBJ-XCOMPinf	impl_pp*_nn*	Ed learned to fly.	
+let	V-SUBJ-OBJexpl-XCOMPbase	impl_pp_nn	John let Mary leave.	
+live	V-SUBJ-XCOMPinf	impl_pp_nn	Ed lived to draw.	
+make	V-SUBJ-OBJ-XCOMPbase	impl_pp	John made Mary leave.	
+make	V-SUBJ-OBJexpl-XCOMPbase	impl_pp	Low pressure made it rain.	
+manage	V-SUBJ-XCOMPinf	impl_pp_nn	Ed managed to leave.	
+mean	V-SUBJ-XCOMPinf	impl_np	Ed didn't mean to go.	
+neglect	V-SUBJ-XCOMPinf	impl_pn_np	Ed neglected to call Mary.	
+observe	V-SUBJ-OBJexpl-XCOMPinf	impl_pp	The Deputy observed there to be a red mark on her face.	
+opt	V-SUBJ-XCOMPinf	impl_pp*	Ed opted to close the factory.	
+permit	V-SUBJ-OBJexpl-XCOMPinf	impl_nn	Ed didn't permit there to be balloons.	
+permit	V-SUBJ-OBJ-XCOMPinf	impl_nn	The rules didn't permit Ed to smoke.	
+permit	V-SUBJ-OBJ-XCOMPinf	impl_nn*	The rules didn't permit Ed to smoke.	
+persuade	V-SUBJ-OBJ-XCOMPinf	impl_pp*_nn*	Ed persuaded Mary to go.	
+predict	V-SUBJ-COMPEXthat	impl_np	Ed didn't predict that Mary arrived.	
+provoke	V-SUBJ-OBJexpl-XCOMPinf	impl_pp	Ed provoked there to be a strike.	
+provoke	V-SUBJ-OBJ-XCOMPinf	impl_pp	Ed was provoked to go.	
+qualify	V-SUBJ-XCOMPinf	impl_nn	Ed didn't qualify to play in the championship.	
+read	V-SUBJ-COMPEXthat	impl_np*	Ed didn't read that Mary arrived.	
+reconfirm	V-SUBJ-COMPEXthat	impl_pp*	Ed reconfirmed that Mary arrived.	
+refrain	V-SUBJ-XCOMPinf	impl_pn_np	Ed refrained to comment.	
+refuse	V-SUBJ-XCOMPinf	impl_pn	Ed refused to go.	
+relearn	V-SUBJ-XCOMPinf	impl_pp*_nn*	Ed relearned to walk.	
+remain	V-SUBJ-XCOMPinf	impl_pn	Ed remained to be convinced.	
+remember	V-SUBJ-XCOMPinf	impl_pp_nn	Ed remembered to go.	
+reveal	V-SUBJ-OBJexpl-XCOMPinf	impl_pp	There was revealed to be presents.	
+rope	V-SUBJ-OBJ-XCOMPinf_prt(in_)	impl_pp	John roped in Mary to set the table.	
+serve	V-SUBJ-XCOMPinf	impl_pp_nn	Canals served to convey traffic through the city.	
+show	V-SUBJ-OBJ-COMPEXthat	impl_pp	Ed showed Mary that Bill arrived.	
+show	V-SUBJ-OBJ-XCOMPinf_prt(up_)	impl_pp	Ed showed John up to be lazy.	
+show	V-SUBJ-COMPEXthat	impl_pp	Ed showed that Bill arrived.	
+specify	V-SUBJ-COMPEXthat	impl_np	Ed didn't specify that Mary arrived.	
+start	V-SUBJexpl-XCOMPinf	impl_pp_nn	It didn't start to rain	
+start	V-SUBJ-XCOMPinf_prt(in_)	impl_pp_nn	John started in to write the novel.	
+stay	V-SUBJ-XCOMPinf	impl_pp_nn	Ed didn't stay to eat.	
+suspect	V-SUBJ-COMPEXthat	impl_np	Ed didn't suspect that Mary arrived.	
+tell	V-SUBJ-OBJ-COMPEXthat	impl_np*	Ed didn't tell Mary that Bill arrived.	
+tend	V-SUBJexpl-XCOMPinf	impl_pp	It tended to rain.	
+think	V-SUBJ-XCOMPinf	impl_nn	Ed didn't think to sell it.	
+trouble	V-SUBJ-OBJ-XCOMPinf	impl_pp_nn	Bill troubled Ed to go to the store.	
+trouble	V-SUBJ-XCOMPinf	impl_pp_nn	Ed had troubled to go.	
+turn	V-SUBJ-XCOMPinf_prt(out_)	impl_pp_nn	Ed turned out to drink.	
+use	V-SUBJ-OBJ-XCOMPinf_scon	impl_pp	John used the key to open the door.	
+use	V-SUBJexpl-XCOMPinf	impl_pp_nn	Ed used to drink.	
+verify	V-SUBJ-COMPEXthat	impl_pp	Ed verified that Mary arrived.	
+wake	V-SUBJ-XCOMPinf	impl_pp_nn	Ed woke to find that breakfast had arrived.	
+warn	V-SUBJ-OBJ-COMPEXthat	impl_np*	Ed didn't warn Mary that Bill arrived.	
+warn	V-SUBJ-COMPEXthat	impl_np*	Ed didn't warn that Bill had arrived.	
+warrant	V-SUBJ-COMPEXthat	impl_pp*	Ed warranted that Mary had a point.	
